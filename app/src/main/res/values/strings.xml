@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Boat</string>
+	<string name="play">开始游戏</string>
+	<string name="excute">Excute</string>
+	<string name="install">Install</string>
+	<string name="mouse_primary">攻击</string>
+    <string name="mouse_secondary">放置</string>
+    <string name="control_chat">聊天</string>
+	<string name="control_command">命令</string>
+    <string name="control_debug">Debug</string>
+    <string name="control_shift">潜行</string>
+    <string name="control_inventory">背包</string>
+	<string name="control_thirdperson">视角</string>
+	<string name="control_jump">◎</string>
+    <string name="control_up">↑</string>
+    <string name="control_left">←</string>
+    <string name="control_right">→</string>
+    <string name="control_down">↓</string>
+	<string name="esc">返回</string>
+    
+</resources>
